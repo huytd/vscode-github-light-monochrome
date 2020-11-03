@@ -1,0 +1,24 @@
+{
+    "name": "github-light-monochrome",
+    "displayName": "GitHub Light Monochrome",
+    "description": "A monochrome theme based on GitHub Light",
+    "publisher": "huytd",
+    "icon": "icon.png",
+    "repository": "https://github.com/huytd/vscode-github-light-monochrome",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitHub Light Monochrome",
+                "uiTheme": "vs",
+                "path": "./themes/GitHub Light Monochrome-color-theme.json"
+            }
+        ]
+    }
+}
