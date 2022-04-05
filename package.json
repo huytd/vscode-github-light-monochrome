@@ -25,5 +25,6 @@
                 "path": "./themes/GitHub Light Monochrome Focused-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
